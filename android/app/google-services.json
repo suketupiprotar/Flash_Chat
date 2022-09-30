@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773153592109",
+    "project_id": "flast-chatt",
+    "storage_bucket": "flast-chatt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773153592109:android:51fc0b778b8e33dc0a39a4",
+        "android_client_info": {
+          "package_name": "com.suketu.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773153592109-dqt5rhfhs65v4ek4amqbsa4fcr33l7fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwVj5wCEUC9MIKL0NoYmJXI9B3HTv_l-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773153592109-dqt5rhfhs65v4ek4amqbsa4fcr33l7fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
